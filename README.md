@@ -22,6 +22,6 @@ This project mainly focuses to explore and analyse global COVID-19 Variants Data
 
 ## Key Analysis and its outcomes
 - **Top COVID-19 Variants Globally** : This analysis is to identify which Variants is having the highest number of cases that are reported all over the world. Below is the Bar plot Visualisation for this analysis.
-- ![image](https://github.com/user-attachments/assets/ed7df960-c717-40ce-b799-74fbfb377ca6)
+  ![image](https://github.com/user-attachments/assets/ed7df960-c717-40ce-b799-74fbfb377ca6)
+- From the Bar graph, the insights is that, Variant named 'Delta' is haveing the highest number of cases reported all over the world followed by Alpha. This gives a clear overview of global impact.
 
-- 
